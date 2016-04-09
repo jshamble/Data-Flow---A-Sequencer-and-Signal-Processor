@@ -1,0 +1,4 @@
+tlight;142;302;1;3;2;1;3;1;4;1
+sproc;266;260;C:\Users\Shamblen\Documents\172_FINAL_DEMO\drums1.wav;2;0
+sproc;264;323;C:\Users\Shamblen\Documents\172_FINAL_DEMO\guitar1.wav;3;0
+sproc;263;395;C:\Users\Shamblen\Documents\172_FINAL_DEMO\strings1.wav;4;0
